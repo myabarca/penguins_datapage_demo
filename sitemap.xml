@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datapages.github.io/datapage/data.html</loc>
-    <lastmod>2024-06-12T23:21:44.725Z</lastmod>
+    <loc>https://myabarca.github.io/penguins_datapage_demo/about.html</loc>
+    <lastmod>2024-10-04T18:36:06.909Z</lastmod>
   </url>
   <url>
-    <loc>https://datapages.github.io/datapage/about.html</loc>
-    <lastmod>2024-06-12T23:21:44.725Z</lastmod>
+    <loc>https://myabarca.github.io/penguins_datapage_demo/analysis.html</loc>
+    <lastmod>2024-10-04T18:36:06.909Z</lastmod>
   </url>
   <url>
-    <loc>https://datapages.github.io/datapage/analysis.html</loc>
-    <lastmod>2024-06-12T23:21:44.725Z</lastmod>
+    <loc>https://myabarca.github.io/penguins_datapage_demo/index.html</loc>
+    <lastmod>2024-10-04T18:36:06.919Z</lastmod>
   </url>
   <url>
-    <loc>https://datapages.github.io/datapage/index.html</loc>
-    <lastmod>2024-06-12T23:21:44.733Z</lastmod>
+    <loc>https://myabarca.github.io/penguins_datapage_demo/data.html</loc>
+    <lastmod>2024-10-04T18:36:06.910Z</lastmod>
   </url>
 </urlset>

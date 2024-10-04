@@ -1,1 +1,1 @@
-Sitemap: https://datapages.github.io/datapage/sitemap.xml
+Sitemap: https://myabarca.github.io/penguins_datapage_demo/sitemap.xml
