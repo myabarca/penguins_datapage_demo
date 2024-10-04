@@ -1,6 +1,6 @@
 ---
-title: "Palmer Penguins"
-subtitle: "A great dataset for data exploration & visualization"
+title: "Maricela's Palmer Penguins Demo Page!"
+subtitle: "Trying out datapage setup!"
 description: |
   Data were collected and made available by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the [Palmer Station, Antarctica LTER](https://pallter.marine.rutgers.edu/), a member of the [Long Term Ecological Research Network](https://lternet.edu/).
 ---
